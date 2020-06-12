@@ -252,3 +252,19 @@ html,body {
   {
     color: #0097e6;
   }
+  .about
+  {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .abt{
+    background-color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    font-family: helvetica;
+  }
